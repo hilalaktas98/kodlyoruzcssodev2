@@ -1,0 +1,59 @@
+.img {
+    display: block;
+    /*margin-left: 450px;
+    margin-right: auto;
+    margin-top: 20px;*/
+    width: 90%;
+    margin: 0 auto;
+    text-align: center;
+}
+    
+.ort {
+    text-align: center;
+    background-color: rgb(237, 235, 235);
+    width: 90%;
+    margin: 0 auto;
+    padding: 1px;
+}
+
+
+.box {
+    background-color: #7EE5DA;
+    width: 37%;
+    float: left;
+    /*margin-right: 10px; aralarını actım*/
+    height: 100%;
+    text-align: center;
+}
+
+.container {
+    width: 90%;
+    margin: 0 auto;
+    height: 76px;
+}
+
+.content {
+    width: 19%;
+    background-color: #70CCC2;
+    font-size: -1;
+    float: left; /*yan yana getirir*/
+    /*margin-right: 10px;*/
+    height: 100%;
+    margin: 0 3px;
+    text-align: center;
+}
+
+.fns {
+    background-color: #62B3AA;
+    width: 43.5%;
+    font-size: -1;
+    float: left;
+    /*margin-right: 10px;*/
+    height: 100%;
+    text-align: center;
+}
+
+.bts {
+    margin-bottom: 10px;
+    text-align: center;
+}
